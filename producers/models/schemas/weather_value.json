@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "schemas.weather.value",
+  "namespace": "com.udacity.cta.schemas",
+  "fields": [
+      {"name": "temperature", "type": "float"},
+      {"name": "status", "type": "string"}
+    ]
+}
